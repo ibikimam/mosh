@@ -1,2 +1,2 @@
 # mosh
-most python training
+Mosh python training

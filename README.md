@@ -1,0 +1,2 @@
+# mosh
+most python training
